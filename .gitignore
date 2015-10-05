@@ -1,0 +1,13 @@
+node_modules/
+test.js
+coverage/
+build/
+npm-debug.log
+.DS_Store
+tmp/
+.idea
+jsdoc/
+versions.json
+*.iml
+.eslintcache
+.cache

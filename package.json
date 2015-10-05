@@ -1,0 +1,59 @@
+{
+  "name": "nplint",
+  "version": "0.1.0",
+  "author": "Mathieu Dutour <mathieu@dutour.me>",
+  "description": "",
+  "bin": {
+    "nplint": "./bin/nplint.js"
+  },
+  "main": "./lib/api.js",
+  "scripts": {},
+  "files": [
+    "LICENSE",
+    "README.md",
+    "bin",
+    "conf",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathieudutour/nplint"
+  },
+  "bugs": "https://github.com/mathieudutour/nplint/issues/",
+  "dependencies": {
+    "async": "^1.4.2",
+    "chalk": "^1.1.1",
+    "clarinet": "^0.11.0",
+    "commander": "^2.8.1",
+    "deepmerge": "^0.2.10",
+    "depcheck": "^0.4.7",
+    "file-seeker": "^0.1.0",
+    "inquirer": "^0.10.1",
+    "is-my-json-valid": "^2.12.2",
+    "is-resolvable": "^1.0.0",
+    "js-yaml": "^3.4.2",
+    "npm-check": "^4.0.3",
+    "object-assign": "^4.0.1",
+    "path-is-absolute": "^1.0.0",
+    "path-is-inside": "^1.0.1",
+    "strip-json-comments": "^1.0.4",
+    "text-table": "^0.2.0",
+    "update-notifier": "^0.5.0",
+    "user-home": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  },
+  "keywords": [
+    "package.json",
+    "npm",
+    "lint",
+    "javascript",
+    "node",
+    "package"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
