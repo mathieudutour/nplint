@@ -1,6 +1,6 @@
 {
   "name": "nplint",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Mathieu Dutour <mathieu@dutour.me>",
   "description": "",
   "bin": {
