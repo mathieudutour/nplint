@@ -43,7 +43,9 @@ var options = {
 };
 
 if (options.init) {
-  configInitializer.initializeConfig();
+  configInitializer.initializeConfig(function() {
+    console.log('done');
+  });
 } else {
   var cli = new CLIEngine(options);
   var file = cli.findPackageJSON();
