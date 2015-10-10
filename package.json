@@ -36,6 +36,7 @@
     "object-assign": "^4.0.1",
     "path-is-absolute": "^1.0.0",
     "path-is-inside": "^1.0.1",
+    "semver": "^5.0.3",
     "strip-json-comments": "^1.0.4",
     "text-table": "^0.2.0",
     "update-notifier": "^0.5.0",
