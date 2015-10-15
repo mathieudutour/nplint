@@ -1,9 +1,11 @@
 {
   "rules": {
     "field-name": 2,
-    "field-description": 1,
     "field-version": 2,
+    "field-description": 1,
     "field-keywords": 1,
+    "field-homepage": 1,
+    "field-url": 2,
     "outdated-dependencies": 2,
     "unused-dependencies": 2
   }
