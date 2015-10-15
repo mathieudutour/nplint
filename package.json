@@ -31,6 +31,7 @@
     "inquirer": "^0.10.1",
     "is-my-json-valid": "^2.12.2",
     "is-resolvable": "^1.0.0",
+    "is-url": "^1.2.1",
     "js-yaml": "^3.4.3",
     "npm-check": "4.1.1",
     "object-assign": "^4.0.1",
